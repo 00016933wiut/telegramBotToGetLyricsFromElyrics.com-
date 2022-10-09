@@ -1,0 +1,20 @@
+C:\Users\Lenovo\source\repos\Telegram bot\Telegram bot\bin\Debug\net6.0\Telegram bot.exe
+C:\Users\Lenovo\source\repos\Telegram bot\Telegram bot\bin\Debug\net6.0\Telegram bot.deps.json
+C:\Users\Lenovo\source\repos\Telegram bot\Telegram bot\bin\Debug\net6.0\Telegram bot.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Telegram bot\Telegram bot\bin\Debug\net6.0\Telegram bot.dll
+C:\Users\Lenovo\source\repos\Telegram bot\Telegram bot\bin\Debug\net6.0\Telegram bot.pdb
+C:\Users\Lenovo\source\repos\Telegram bot\Telegram bot\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\repos\Telegram bot\Telegram bot\bin\Debug\net6.0\Telegram.Bot.dll
+C:\Users\Lenovo\source\repos\Telegram bot\Telegram bot\bin\Debug\net6.0\Telegram.Bot.Extensions.Polling.dll
+C:\Users\Lenovo\source\repos\Telegram bot\Telegram bot\obj\Debug\net6.0\Telegram bot.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Telegram bot\Telegram bot\obj\Debug\net6.0\Telegram bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Telegram bot\Telegram bot\obj\Debug\net6.0\Telegram bot.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Telegram bot\Telegram bot\obj\Debug\net6.0\Telegram bot.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Telegram bot\Telegram bot\obj\Debug\net6.0\Telegram bot.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Telegram bot\Telegram bot\obj\Debug\net6.0\Telegram bot.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\Telegram bot\Telegram bot\obj\Debug\net6.0\Telegram bot.dll
+C:\Users\Lenovo\source\repos\Telegram bot\Telegram bot\obj\Debug\net6.0\refint\Telegram bot.dll
+C:\Users\Lenovo\source\repos\Telegram bot\Telegram bot\obj\Debug\net6.0\Telegram bot.pdb
+C:\Users\Lenovo\source\repos\Telegram bot\Telegram bot\obj\Debug\net6.0\Telegram bot.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Telegram bot\Telegram bot\obj\Debug\net6.0\ref\Telegram bot.dll
+C:\Users\Lenovo\source\repos\Telegram bot\Telegram bot\bin\Debug\net6.0\HtmlAgilityPack.dll
